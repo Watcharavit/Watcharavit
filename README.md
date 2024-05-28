@@ -1,8 +1,13 @@
 ## Hi there, I'm Earn👋
+<p align="center">
+  <img src="img/spongebob.jpg" width="512" title="spongebob" />
+</p>
+
 - 🎓 New grad from Computer Engineering student at Chulalongkorn University (CU104/CP47)
 - 📫 Contact: watcharavit.v@hotmail.com
 
 ## About me
+
 
 ### 🛠 Languages & Tools:
 
